@@ -13,7 +13,7 @@ const publicVapidKey =
 const privateVapidKey = "qJQDN8bdgBvtf92B51_C440REIPoS3WuTYxvy_R_cBY";
 
 webPush.setVapidDetails(
-  "mailto:your-email@example.com",
+  "mailto:eliyahumeir12@gmail.com",
   publicVapidKey,
   privateVapidKey
 );
